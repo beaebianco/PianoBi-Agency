@@ -1,0 +1,112 @@
+/*graffa aperta => altgr + shift + parentesi quadra*/
+/*graffa aperta => altgr + shift + parentesi quadra*/
+body {
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h1 {
+	font-family: "Italiana", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+    color: white;
+}
+
+h2 {
+	font-family: "Italiana", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+s}
+
+.navbar {
+	background-color: rgb(215, 177, 208);
+}
+
+footer {
+	background-color: rgb(215, 177, 208);
+	color: rgb(51, 51, 51);
+}
+
+.sezione-call-to-action { 
+	padding-top: 50px;
+	background-color: rgb(229,218,205);
+	padding-bottom: 50px; 
+}
+
+.sezione-blog { 
+	background-color: rgb(229,218,205);
+	padding: 30px; 
+	border-radius: 20px;
+}
+
+.btn {
+	background-color: rgb(215, 177, 208);
+}
+
+.btn:hover {
+	background-color: rgb(215, 177, 208);
+}
+
+.header-pianobi{
+	margin-top: 50px;
+	background-color: rgb(229,218,205);
+}
+
+.card-filosofia {
+	background-color: rgb(215, 177, 208);
+}
+
+.sezione-filosofia { 
+	padding-top: 50px;
+	background-color: rgb(229,218,205);
+	padding-bottom: 50px; 
+}
+
+.card-valori {
+	background-color: rgb(215, 177, 208);
+}
+
+.card-recensioni {
+	background-color: rgb(215, 177, 208);
+}
+
+.sezione-recensioni { 
+	padding-top: 50px;
+	padding-bottom: 50px; 
+}
+.immagine-home {
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+  
+}
+
+.fascia-servizio {
+	vertical-align: center;
+	color: rgb(51, 51, 51);
+   
+}
+.foto {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 400px;
+}
+
+.header-wedding, .servizi-wedding {
+	background-color: rgb(246, 210, 214);
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: rgb(51, 51, 51);
+}
+
+.card-wedding {
+	height: 400px;
+}
+
+.foto2 {
+	height: 600px;
+}
+.titolo_contatti{
+	color:black;
+}
